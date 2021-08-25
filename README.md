@@ -1,6 +1,6 @@
 ### Hi there I'm Breno Filipe 🤘
 
-- 🎓 I'm a computer science academic at UniCEUB
+- 🎓 I'm a Computer Science academic at UniCEUB
 - 🤖 I’m currently working fulltime at Lightbase as fullstack developer
 - 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: brenoelfwow@gmail.com
