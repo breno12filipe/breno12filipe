@@ -1,7 +1,7 @@
 ### Hi there I'm Breno Filipe 🤘
 
-- 🎓 I'm a Computer Science academic at UniCEUB
-- 🤖 I’m currently working fulltime at Ília as backend developer
+- 🎓 I'm a Computer Science bachelor
+- 🤖 I’m currently working fulltime at Ília as c++ developer
 - 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: brenofilipe1212@gmail.com
 
