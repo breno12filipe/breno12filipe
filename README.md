@@ -1,6 +1,6 @@
 ### Hi there I'm HeadMaster here 🤘
 
-- 🤖 Working fulltime C++ developer
+- 🤖 Working fulltime as C++ developer
 - 🤝 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: brenofilipe1212@gmail.com
 
