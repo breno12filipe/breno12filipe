@@ -1,4 +1,4 @@
-### Hi there I'm HeadMaster here 🤘
+### Hi there HeadMaster here 🤘
 
 - 🤖 Working fulltime as C++ developer
 - 🤝 I’m looking to collaborate on open-source projects
